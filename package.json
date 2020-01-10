@@ -1,6 +1,6 @@
 {
   "name": "spdy",
-  "version": "4.0.1",
+  "version": "4.0.1-i350",
   "description": "Implementation of the SPDY protocol on node.js.",
   "license": "MIT",
   "scripts": {
@@ -35,7 +35,7 @@
   ],
   "dependencies": {
     "debug": "^4.1.0",
-    "handle-thing": "^2.0.0",
+    "handle-thing": "^2.0.0-i6",
     "http-deceiver": "^1.2.7",
     "select-hose": "^2.0.0",
     "spdy-transport": "^3.0.0"
